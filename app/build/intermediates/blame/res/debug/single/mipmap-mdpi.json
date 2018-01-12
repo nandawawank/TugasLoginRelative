@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/TugasLoginRelative/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/root/AndroidStudioProjects/TugasLoginRelative/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/TugasLoginRelative/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/root/AndroidStudioProjects/TugasLoginRelative/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasLoginRelative</string>
+    <string name="username_id">username_id</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
+    <string name="second_activity">second_activity</string>
+    <string name="activity_second">activity_second</string>
+    <string name="button_main">button_main</string>
+</resources>
